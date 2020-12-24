@@ -6,6 +6,8 @@
 
 ### Added
 
+- Add `version` field on config
+
 ### Deprecated
 
 ### Removed
